@@ -1,0 +1,33 @@
+# dependencies
+node_modules/
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# env files
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# build
+build/
+dist/
+
+# coverage
+coverage/
+
+# docker
+*.tar
+
+# vscode
+.vscode/
+
+# idea
+.idea/
+
+# system files
+Thumbs.db
